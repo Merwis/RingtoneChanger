@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RingtoneChanger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="area_name">Area name</string>
+    <string name="radius">Radius (km)</string>
+    <string name="wifi">Wifi name</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="save_area">Save area</string>
+    <string name="open_map">Open map</string>
+    <string name="open_wifi_list">Open Wifi list</string>
+    <string name="open_ringtone_list">Open ringtone list</string>
+    <string name="add_new_area">Add new area</string>
+    <string name="add_gps">Add GPS</string>
+    <string name="change_alarm_song">Change alarm song</string>
+    <string name="selected_destination">Selected area</string>
+    <string name="activate">ACTIVATE</string>
+    <string name="deactivate">DEACTIVATE</string>
+
+    <string name="areaNameIsRequired">Area name is required</string>
+    <string name="ringtoneIsRequired">Ringtone is required</string>
+    <string name="startingWifiChechking">Starting wifi checking</string>
+    <string name="stoppingWifiChechking">Stopping wifi checking</string>
+    <string name="gpsTrackingDisabled">GPS tracking is disabled in settings</string>
+    <string name="calibrationCompleted">Calibration completed</string>
+    <string name="calibrationFailed">Calibration failed!</string>
+    <string name="calibrationInProgress">Calibration will take a few seconds. Please wait for confirming message.</string>
+    <string name="volumeUp"> Volume is up </string>
+    <string name="volumeDown"> Volume is back at default </string>
+    <string name="connected">Conntected</string>
+    <string name="disconnected">Disconntected</string>
+    <string name="wifiDisabled">Wifi is disabled</string>
+</resources>
